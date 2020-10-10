@@ -1,6 +1,7 @@
-<h2> Hello, folks! I'm Andre Gomes. 👋 </h2>
-<p><em>Software Engineer at <a href="https://www.cesar.org.br/">C.E.S.A.R</a> 
-</em></p>
+<h2> Hello, folks! 👋 </h2>
+<p><em>I'm Andre Gomes. I'm  working at <a href="https://www.cesar.org.br/">C.E.S.A.R</a> as Software Engineer.</em></p>
+
+- 📫 How to reach me:  
 
 [![Linkedin: andre-gomes](https://img.shields.io/badge/-andregomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-gomes-37911220/)](https://www.linkedin.com/in/andr%C3%A9-gomes-37911220/?target=_blank)
 
