@@ -2,7 +2,7 @@
 <p><em>Software Engineer at <a href="https://www.cesar.org.br/">C.E.S.A.R</a> 
 </em></p>
 
-[![Linkedin: andre-gomes](https://img.shields.io/badge/-andregomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-gomes-37911220/)](https://www.linkedin.com/in/andr%C3%A9-gomes-37911220/)
+[![Linkedin: andre-gomes](https://img.shields.io/badge/-andregomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-gomes-37911220/ target="_blank)](https://www.linkedin.com/in/andr%C3%A9-gomes-37911220/)
 
 <!--
 **andrergomesdev/andrergomesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
