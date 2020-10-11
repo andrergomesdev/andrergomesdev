@@ -1,5 +1,5 @@
 <h2> Hello, folks! 👋 </h2>
-<p><em>I'm Andre Gomes. I'm  working at <a href="https://www.cesar.org.br/">C.E.S.A.R</a> as Software Engineer. I've been working with technology since 2006 and I'm passionate for this. Here I intend to share my work and my studies.</em></p>
+<p><em>I'm Andre Gomes. I work at <a href="https://www.cesar.org.br/">C.E.S.A.R</a> as a Software Engineer. I've been working with technology since 2006 and I'm passionate about it. Here, I intend to share my work and my studies.</em></p>
 
 - ⚡ Technologies:  
 
